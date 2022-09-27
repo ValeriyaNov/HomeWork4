@@ -20,4 +20,4 @@ int GetDegree(int number, int degree)
         result=result*number;
      }
      return result;
-}
+}   
